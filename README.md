@@ -11,7 +11,7 @@ These are made publicly available for more people to foster curiosity and passio
 
 
 
-| Name  | Date |
-|-------|------|
-| Password Hacking with John The Ripper and Hashcat | February 26, 2023 |
+| :grey_question: | Name  | Date |
+|----|-------|------|
+| :heavy_check_mark: | Password Hacking with John The Ripper | February 26, 2023 |
 
